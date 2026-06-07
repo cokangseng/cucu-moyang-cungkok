@@ -8,7 +8,7 @@
     </title>
     <link rel="icon" type="image/x-icon" href="https://cucumoyang-cungkok.pages.dev/anekuan/pangsit.png" />
     <link rel="apple-touch-icon" href="https://cucumoyang-cungkok.pages.dev/anekuan/pangsit.png">
-    <link rel="canonical" href="https://caritasmanila.org.ph/">
+    <link rel="canonical" href="https://lasolasmarysol.com.mx/">
     <link rel="amphtml" href="https://cucu-moyang-cungkok.pages.dev/Link-Spesialis-MadamToto/amp" />
     <link rel="alternate" hreflang="id-id" href="https://cucu-moyang-cungkok.pages.dev/Link-Spesialis-MadamToto/amp" />
     <link rel="alternate" href="https://cucu-moyang-cungkok.pages.dev/Link-Spesialis-MadamToto/amp" />
@@ -64,7 +64,7 @@
             });
         })
     </script>
-
+<meta name="google-site-verification" content="Q7UO0v1O7R5ThtA1VbRm3IqMIcJM5RBu54Y651dOano" />
     <meta name='description'
         content='MADAMTOTO merupakan sumber informasi Bandar Toto Macau terpercaya yang menyajikan update pasaran, prediksi, result terbaru, dan berbagai informasi menarik setiap hari dengan akses cepat, aman, dan mudah di tahun 2026.'>
     <meta property="og:title" content="SELIN MADAMTOTO — Link Spesialis Bandar Toto Macau & Toto Togel Online 4D Resmi Terpercaya">
@@ -75,7 +75,7 @@
     <meta property="og:price:amount" content="88.00">
     <meta property="og:price:currency" content="USD">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://caritasmanila.org.ph/">
+    <meta property="og:url" content="https://lasolasmarysol.com.mx/">
     <meta property="og:image" content="https://cucu-moyang-cungkok.pages.dev/pangsit/selin-madamtoto.png">
     <meta property="og:site_name" content="MADAMTOTO">
     <meta property="product:price:amount" content="23.00">
@@ -529,9 +529,9 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://caritasmanila.org.ph/#organization",
+      "@id": "https://lasolasmarysol.com.mx/#organization",
       "name": "MADAMTOTO",
-      "url": "https://caritasmanila.org.ph/",
+      "url": "https://lasolasmarysol.com.mx/",
       "logo": {
         "@type": "ImageObject",
         "url": "https://cucu-moyang-cungkok.pages.dev/pangsit/selin-madamtoto.png"
@@ -539,75 +539,75 @@
       "image": "https://cucu-moyang-cungkok.pages.dev/pangsit/selin-madamtoto.png",
       "description": "MADAMTOTO merupakan sumber informasi Bandar Toto Macau terpercaya yang menyajikan update pasaran, prediksi, result terbaru, dan berbagai informasi menarik setiap hari.",
       "sameAs": [
-        "https://caritasmanila.org.ph/"
+        "https://lasolasmarysol.com.mx/"
       ]
     },
     {
       "@type": "WebSite",
-      "@id": "https://caritasmanila.org.ph/#website",
-      "url": "https://caritasmanila.org.ph/",
+      "@id": "https://lasolasmarysol.com.mx/#website",
+      "url": "https://lasolasmarysol.com.mx/",
       "name": "MADAMTOTO",
       "alternateName": "Sumber Informasi Bandar Toto Macau",
       "description": "MADAMTOTO merupakan sumber informasi Bandar Toto Macau terpercaya yang menyajikan update pasaran, prediksi, result terbaru, dan berbagai informasi menarik setiap hari dengan akses cepat, aman, dan mudah di tahun 2026.",
       "publisher": {
-        "@id": "https://caritasmanila.org.ph/#organization"
+        "@id": "https://lasolasmarysol.com.mx/#organization"
       },
       "inLanguage": "id-ID"
     },
     {
       "@type": "WebPage",
-      "@id": "https://caritasmanila.org.ph/#webpage",
-      "url": "https://caritasmanila.org.ph/",
+      "@id": "https://lasolasmarysol.com.mx/#webpage",
+      "url": "https://lasolasmarysol.com.mx/",
       "name": "SELIN MADAMTOTO — Link Spesialis Bandar Toto Macau & Toto Togel Online 4D Resmi Terpercaya",
       "isPartOf": {
-        "@id": "https://caritasmanila.org.ph/#website"
+        "@id": "https://lasolasmarysol.com.mx/#website"
       },
       "about": {
-        "@id": "https://caritasmanila.org.ph/#organization"
+        "@id": "https://lasolasmarysol.com.mx/#organization"
       },
       "primaryImageOfPage": {
-        "@id": "https://caritasmanila.org.ph/#primaryimage"
+        "@id": "https://lasolasmarysol.com.mx/#primaryimage"
       },
       "breadcrumb": {
-        "@id": "https://caritasmanila.org.ph/#breadcrumb"
+        "@id": "https://lasolasmarysol.com.mx/#breadcrumb"
       },
       "description": "MADAMTOTO merupakan sumber informasi Bandar Toto Macau terpercaya yang menyajikan update pasaran, prediksi, result terbaru, dan berbagai informasi menarik setiap hari dengan akses cepat, aman, dan mudah di tahun 2026.",
       "inLanguage": "id-ID"
     },
     {
       "@type": "ImageObject",
-      "@id": "https://caritasmanila.org.ph/#primaryimage",
+      "@id": "https://lasolasmarysol.com.mx/#primaryimage",
       "url": "https://cucu-moyang-cungkok.pages.dev/pangsit/selin-madamtoto.png",
       "contentUrl": "https://cucu-moyang-cungkok.pages.dev/pangsit/selin-madamtoto.png",
       "caption": "MADAMTOTO - Sumber Informasi Bandar Toto Macau"
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://caritasmanila.org.ph/#breadcrumb",
+      "@id": "https://lasolasmarysol.com.mx/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Beranda",
-          "item": "https://caritasmanila.org.ph/"
+          "item": "https://lasolasmarysol.com.mx/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Informasi Toto Macau",
-          "item": "https://caritasmanila.org.ph/"
+          "item": "https://lasolasmarysol.com.mx/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Result dan Prediksi Harian",
-          "item": "https://caritasmanila.org.ph/"
+          "item": "https://lasolasmarysol.com.mx/"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://caritasmanila.org.ph/#article",
+      "@id": "https://lasolasmarysol.com.mx/#article",
       "headline": "SELIN MADAMTOTO — Link Spesialis Bandar Toto Macau & Toto Togel Online 4D Resmi Terpercaya",
       "alternativeHeadline": "Update Pasaran, Prediksi, dan Result Toto Macau Harian 2026",
       "description": "MADAMTOTO merupakan sumber informasi Bandar Toto Macau terpercaya yang menyajikan update pasaran, prediksi, result terbaru, dan berbagai informasi menarik setiap hari dengan akses cepat, aman, dan mudah di tahun 2026.",
@@ -615,13 +615,13 @@
         "https://cucu-moyang-cungkok.pages.dev/pangsit/selin-madamtoto.png"
       ],
       "author": {
-        "@id": "https://caritasmanila.org.ph/#organization"
+        "@id": "https://lasolasmarysol.com.mx/#organization"
       },
       "publisher": {
-        "@id": "https://caritasmanila.org.ph/#organization"
+        "@id": "https://lasolasmarysol.com.mx/#organization"
       },
       "mainEntityOfPage": {
-        "@id": "https://caritasmanila.org.ph/#webpage"
+        "@id": "https://lasolasmarysol.com.mx/#webpage"
       },
       "datePublished": "2026-06-04",
       "dateModified": "2026-06-06",
@@ -638,11 +638,11 @@
     },
     {
       "@type": "Service",
-      "@id": "https://caritasmanila.org.ph/#service",
+      "@id": "https://lasolasmarysol.com.mx/#service",
       "name": "Layanan Informasi Toto Macau Harian",
       "serviceType": "Informasi Pasaran, Prediksi, dan Result Toto Macau",
       "provider": {
-        "@id": "https://caritasmanila.org.ph/#organization"
+        "@id": "https://lasolasmarysol.com.mx/#organization"
       },
       "areaServed": {
         "@type": "Country",
@@ -651,7 +651,7 @@
       "description": "Layanan informasi yang menyajikan pembaruan pasaran Toto Macau, prediksi harian, data result, dan topik terkait secara ringkas serta mudah diakses.",
       "offers": {
         "@type": "Offer",
-        "url": "https://caritasmanila.org.ph/",
+        "url": "https://lasolasmarysol.com.mx/",
         "price": "0",
         "priceCurrency": "IDR",
         "availability": "https://schema.org/InStock"
@@ -659,7 +659,7 @@
     },
     {
       "@type": "OfferCatalog",
-      "@id": "https://caritasmanila.org.ph/#offercatalog",
+      "@id": "https://lasolasmarysol.com.mx/#offercatalog",
       "name": "Katalog Informasi MADAMTOTO",
       "itemListElement": [
         {
@@ -690,7 +690,7 @@
     },
     {
       "@type": "FAQPage",
-      "@id": "https://caritasmanila.org.ph/#faq",
+      "@id": "https://lasolasmarysol.com.mx/#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -736,46 +736,46 @@
     },
     {
       "@type": "ItemList",
-      "@id": "https://caritasmanila.org.ph/#tags",
+      "@id": "https://lasolasmarysol.com.mx/#tags",
       "name": "Topik Terkait",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Update Pasaran Macau",
-          "url": "https://caritasmanila.org.ph/"
+          "url": "https://lasolasmarysol.com.mx/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Prediksi Toto Macau",
-          "url": "https://caritasmanila.org.ph/"
+          "url": "https://lasolasmarysol.com.mx/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Result Macau Hari Ini",
-          "url": "https://caritasmanila.org.ph/"
+          "url": "https://lasolasmarysol.com.mx/"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "Informasi Bandar Toto",
-          "url": "https://caritasmanila.org.ph/"
+          "url": "https://lasolasmarysol.com.mx/"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "name": "Data Togel 2026",
-          "url": "https://caritasmanila.org.ph/"
+          "url": "https://lasolasmarysol.com.mx/"
         }
       ]
     },
     {
       "@type": "AggregateRating",
-      "@id": "https://caritasmanila.org.ph/#rating",
+      "@id": "https://lasolasmarysol.com.mx/#rating",
       "itemReviewed": {
-        "@id": "https://caritasmanila.org.ph/#organization"
+        "@id": "https://lasolasmarysol.com.mx/#organization"
       },
       "ratingValue": "4.8",
       "bestRating": "5",
@@ -784,9 +784,9 @@
     },
     {
       "@type": "Review",
-      "@id": "https://caritasmanila.org.ph/#review-1",
+      "@id": "https://lasolasmarysol.com.mx/#review-1",
       "itemReviewed": {
-        "@id": "https://caritasmanila.org.ph/#organization"
+        "@id": "https://lasolasmarysol.com.mx/#organization"
       },
       "author": {
         "@type": "Person",
@@ -801,9 +801,9 @@
     },
     {
       "@type": "Review",
-      "@id": "https://caritasmanila.org.ph/#review-2",
+      "@id": "https://lasolasmarysol.com.mx/#review-2",
       "itemReviewed": {
-        "@id": "https://caritasmanila.org.ph/#organization"
+        "@id": "https://lasolasmarysol.com.mx/#organization"
       },
       "author": {
         "@type": "Person",
@@ -818,7 +818,7 @@
     },
     {
       "@type": "SpeakableSpecification",
-      "@id": "https://caritasmanila.org.ph/#speakable",
+      "@id": "https://lasolasmarysol.com.mx/#speakable",
       "cssSelector": [
         "h1",
         ".meta-description",
@@ -1470,7 +1470,7 @@
                         update pasaran, jadwal, prediksi, dan result terbaru dengan penyajian yang ringan dibaca. Setiap
                         informasi disusun agar mudah dipahami, baik oleh pembaca baru maupun pengguna lama yang
                         membutuhkan referensi cepat sebelum memantau data harian.</p>
-                    <p style="text-align: justify;">Sebagai sumber informasi, <a href="https://caritasmanila.org.ph/"
+                    <p style="text-align: justify;">Sebagai sumber informasi, <a href="https://lasolasmarysol.com.mx/"
                             class="anchor-MADAMTOTO">MADAMTOTO</a> menekankan kecepatan akses, tampilan sederhana, serta
                         pembahasan yang relevan dengan kebutuhan pembaca tahun 2026. Fokus utamanya bukan sekadar
                         menampilkan kata kunci, melainkan memberi konteks yang jelas tentang perubahan pasaran, pola
@@ -1725,28 +1725,28 @@
                 <nav class='m-design__additional-info-list'>
                     <div
                         class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim">
-                        <a href="https://caritasmanila.org.ph/"
+                        <a href="https://lasolasmarysol.com.mx/"
                             class="link vc-pill vc-pill--on-light link--default"><span class='link__content'>Update
                                 Pasaran Macau</span></a>
-                        <a href="https://caritasmanila.org.ph/"
+                        <a href="https://lasolasmarysol.com.mx/"
                             class="link vc-pill vc-pill--on-light link--default"><span class='link__content'>Prediksi
                                 Toto Macau</span></a>
-                        <a href="https://caritasmanila.org.ph/"
+                        <a href="https://lasolasmarysol.com.mx/"
                             class="link vc-pill vc-pill--on-light link--default"><span class='link__content'>Result
                                 Macau Hari Ini</span></a>
-                        <a href="https://caritasmanila.org.ph/"
+                        <a href="https://lasolasmarysol.com.mx/"
                             class="link vc-pill vc-pill--on-light link--default"><span class='link__content'>Informasi
                                 Bandar Toto</span></a>
-                        <a href="https://caritasmanila.org.ph/"
+                        <a href="https://lasolasmarysol.com.mx/"
                             class="link vc-pill vc-pill--on-light link--default"><span class='link__content'>Data Togel
                                 2026</span></a>
-                        <a href="https://caritasmanila.org.ph/"
+                        <a href="https://lasolasmarysol.com.mx/"
                             class="link vc-pill vc-pill--on-light link--default"><span class='link__content'>Jadwal
                                 Pasaran</span></a>
-                        <a href="https://caritasmanila.org.ph/"
+                        <a href="https://lasolasmarysol.com.mx/"
                             class="link vc-pill vc-pill--on-light link--default"><span class='link__content'>Bocoran
                                 Macau</span></a>
-                        <a href="https://caritasmanila.org.ph/"
+                        <a href="https://lasolasmarysol.com.mx/"
                             class="link vc-pill vc-pill--on-light link--default"><span class='link__content'>Rangkuman
                                 Result</span></a>
                     </div>
